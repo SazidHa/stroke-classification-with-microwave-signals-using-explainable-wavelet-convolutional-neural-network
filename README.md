@@ -5,4 +5,4 @@
  PMID: 37874697
  DOI: * [[10.1109/JBHI.2023.3327296](https://doi.org/10.1109/JBHI.2023.3327296)]([./#10.1109/JBHI.2023.3327296](https://doi.org/10.1109/JBHI.2023.3327296))
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](https://pubmed.ncbi.nlm.nih.gov/37874697/)
+[![DOI](https://doi.org/10.1109/JBHI.2023.3327296](https://doi.org/10.1109/JBHI.2023.3327296)
